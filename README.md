@@ -19,5 +19,7 @@ A lightweight Python emulator written to solve the **MalwareTech VM1** reverse e
 
 For the complete reverse engineering walkthrough in Ghidra, check out the blog post:
 
-[TR](blabla.com)
-[EN](blabla.com)
+[TR](https://0xpacx.github.io/posts/vm1/)
+
+
+[EN](https://0xpacx.github.io/en/posts/vm1/)
